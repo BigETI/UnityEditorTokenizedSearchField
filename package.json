@@ -1,0 +1,19 @@
+{
+    "name": "com.bigeti.tokenizedsearchfield",
+    "version": "0.2.0",
+    "displayName": "Unity Editor tokenized search field",
+    "description": "This package contains a tokenize search field that can be used inside the Unity Editor.",
+    "dependencies": {},
+    "keywords": [
+        "find",
+        "search",
+        "token",
+        "tokneize",
+        "tokenized"
+    ],
+    "author": {
+        "name": "Ethem Kurt",
+        "email": "bigeti.ethem@gmail.com",
+        "url": "https://bigeti.de/"
+    }
+}
